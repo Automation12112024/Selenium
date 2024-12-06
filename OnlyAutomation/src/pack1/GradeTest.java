@@ -31,6 +31,7 @@ public class GradeTest {
 		{
 			
 			System.out.println("F");
+			System.out.println("F");
 		}
 		
 		
