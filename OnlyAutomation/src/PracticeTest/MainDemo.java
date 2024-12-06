@@ -9,8 +9,7 @@ public class MainDemo {
 		
 		t.methodDemo();
 		
-		System.out.println("Practice");
-		System.out.println("Test");
+	
 		
 		
 	}

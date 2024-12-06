@@ -13,6 +13,8 @@ public class TestDemo2 extends TestDemo{
 	TestDemo2()
 	{
 		System.out.println(a);
+		System.out.println("Practice");
+		System.out.println("Test");
 	}
 
 }
