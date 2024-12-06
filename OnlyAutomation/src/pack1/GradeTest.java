@@ -30,7 +30,7 @@ public class GradeTest {
 		else if(grade<60)
 		{
 			
-			System.out.println("F");
+			System.out.println("Fail");
 		
 		}
 		
